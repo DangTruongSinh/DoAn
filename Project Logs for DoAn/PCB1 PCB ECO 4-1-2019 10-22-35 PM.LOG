@@ -1,0 +1,10 @@
+Added Component: Designator=R2(AXIAL-0.3)
+Added Component: Designator=SW2(SW2)
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=VCC Pin=SW2-1
+Added Pin To Net: NetName=NetP6_15 Pin=P6-15
+Added Pin To Net: NetName=NetP6_15 Pin=R2-2
+Added Pin To Net: NetName=NetP6_15 Pin=SW2-2
+Added Net: Name=NetP6_15
+Added Member To Class: ClassName=Sheet1 Member=Component R2 Res1
+Added Member To Class: ClassName=Sheet1 Member=Component SW2 SW

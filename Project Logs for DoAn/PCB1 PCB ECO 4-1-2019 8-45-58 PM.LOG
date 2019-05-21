@@ -1,0 +1,7 @@
+Added Component: Designator=VR?(VR)
+Added Pin To Net: NetName=VCC Pin=VR?-1
+Added Pin To Net: NetName=Netbien tro1_2 Pin=VR?-2
+Added Pin To Net: NetName=GND Pin=VR?-3
+Change Net Name : Old Net Name=Netbien tro1_2 New Net Name=NetP6_3
+Added Member To Class: ClassName=Sheet1 Member=Component VR? 10K
+Added Room: Name=Sheet1

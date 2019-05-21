@@ -1,0 +1,5 @@
+Added Component: Designator=IC?(DIP8)
+Added Pin To Net: NetName=GND Pin=IC?-4
+Added Pin To Net: NetName=C3 Pin=IC?-6
+Added Pin To Net: NetName=VCC Pin=IC?-8
+Added Member To Class: ClassName=Sheet1 Member=Component IC? DS1307

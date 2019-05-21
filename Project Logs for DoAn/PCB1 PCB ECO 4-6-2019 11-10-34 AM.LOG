@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=NetIC1_3 Pin=IC1-3
+Removed Pin From Net: NetName=NetIC1_3 Pin=P3-8
+Removed Member From Class: ClassName=Sheet1 Member=LCD1
+Added Component: Designator=D1(D5AN)
+Added Component: Designator=LED2(LED-3)
+Added Component: Designator=Q1(QTO-92)
+Added Component: Designator=R5(R1/4W)
+Added Component: Designator=R6(R1/4W)
+Added Component: Designator=R7(R1/4W)
+Added Component: Designator=RL1(RL_SPDT_10A)
+Added Component: Designator=U1(DIP4/W0.3)
+Added Pin To Net: NetName=NetIC1_3 Pin=D1-1
+Added Pin To Net: NetName=VCC Pin=D1-2
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=NetIC1_3 Pin=Q1-2
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=NetIC1_3 Pin=RL1-4
+Added Pin To Net: NetName=VCC Pin=RL1-5
+Added Pin To Net: NetName=GND Pin=U1-2
+Change Net Name : Old Net Name=NetIC1_3 New Net Name=NetD1_1
+Added Pin To Net: NetName=A1 Pin=IC1-3
+Added Pin To Net: NetName=A1 Pin=P3-8
+Added Pin To Net: NetName=A1 Pin=R6-1
+Added Net: Name=A1
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R6-2
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=U1-1
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R7-1
+Added Pin To Net: NetName=NetQ1_3 Pin=U1-3
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-4
+Added Net: Name=NetR5_1
+Added Member To Class: ClassName=Sheet1 Member=Component D1 Diode
+Added Member To Class: ClassName=Sheet1 Member=Component LED2 LED
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 C1815
+Added Member To Class: ClassName=Sheet1 Member=Component R5 2.2k
+Added Member To Class: ClassName=Sheet1 Member=Component R6 330
+Added Member To Class: ClassName=Sheet1 Member=Component R7 10k
+Added Member To Class: ClassName=Sheet1 Member=Component RL1 Relay 10A/12V
+Added Member To Class: ClassName=Sheet1 Member=Component U1 PC817

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=C4 Pin=LS1-1
+Added Pin To Net: NetName=NetIC1_2 Pin=LS1-1
+Change Net Name : Old Net Name=NetIC1_2 New Net Name=A0

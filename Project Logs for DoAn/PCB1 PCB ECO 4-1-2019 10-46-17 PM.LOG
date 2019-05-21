@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=C0 Pin=LS1-1
+Removed Pin From Net: NetName=B7 Pin=P1-4
+Removed Pin From Net: NetName=B6 Pin=P1-5
+Removed Pin From Net: NetName=C4 Pin=P6-15
+Added Component: Designator=VR1(VR)
+Added Pin To Net: NetName=C4 Pin=LS1-1
+Added Pin To Net: NetName=B6 Pin=P1-4
+Added Pin To Net: NetName=B7 Pin=P1-5
+Added Pin To Net: NetName=VCC Pin=VR1-1
+Added Pin To Net: NetName=Netbien tro1_2 Pin=VR1-2
+Added Pin To Net: NetName=GND Pin=VR1-3
+Change Net Name : Old Net Name=Netbien tro1_2 New Net Name=NetP6_3
+Added Member To Class: ClassName=Sheet1 Member=Component VR1 10K
+Added Room: Name=Sheet1

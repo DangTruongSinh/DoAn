@@ -1,0 +1,11 @@
+Added Component: Designator=IC3(DIP8)
+Added Pin To Net: NetName=RC3 Pin=IC1-18
+Added Pin To Net: NetName=D0 Pin=IC1-19
+Added Pin To Net: NetName=D1 Pin=IC1-20
+Added Pin To Net: NetName=GND Pin=IC3-4
+Added Pin To Net: NetName=RC3 Pin=IC3-6
+Added Pin To Net: NetName=VCC Pin=IC3-8
+Added Pin To Net: NetName=D1 Pin=P5-1
+Added Pin To Net: NetName=D0 Pin=P5-2
+Added Pin To Net: NetName=RC3 Pin=P5-3
+Added Member To Class: ClassName=Sheet1 Member=Component IC3 DS1307

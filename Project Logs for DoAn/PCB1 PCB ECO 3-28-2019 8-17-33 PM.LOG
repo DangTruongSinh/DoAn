@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetU1_1 Pin=U1-1
+Removed Pin From Net: NetName=NetU1_2 Pin=U1-2
+Removed Pin From Net: NetName=NetBT1_1 Pin=U1-3
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=C4 Pin=U1-5
+Removed Pin From Net: NetName=C3 Pin=U1-6
+Removed Pin From Net: NetName=VCC Pin=U1-8
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Change Component DesignItemId : Designator=R1 Old DesignItemId=R New DesignItemId=R1/4W
+Change Component Footprint: Designator=R1 Old Footprint=SM-RES-1206 New Footprint=R1/4W
+Added Component: Designator=IC2(DIP8/W0.3)
+Added Pin To Net: NetName=NetU1_1 Pin=IC2-1
+Added Pin To Net: NetName=NetU1_2 Pin=IC2-2
+Added Pin To Net: NetName=NetBT1_1 Pin=IC2-3
+Added Pin To Net: NetName=GND Pin=IC2-4
+Added Pin To Net: NetName=C4 Pin=IC2-5
+Added Pin To Net: NetName=C3 Pin=IC2-6
+Added Pin To Net: NetName=VCC Pin=IC2-8
+Change Net Name : Old Net Name=NetU1_1 New Net Name=NetIC2_1
+Change Net Name : Old Net Name=NetU1_2 New Net Name=NetIC2_2
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 DS1307

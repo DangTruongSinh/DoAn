@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=VR1-3
+Added Pin To Net: NetName=E1 Pin=VR1-3
+Added Member To Class: ClassName=Sheet1 Member=Component VR1 10K

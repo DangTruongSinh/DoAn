@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=VCC Pin=SW2-3
+Added Pin To Net: NetName=AK Pin=P6-15
+Added Pin To Net: NetName=AK Pin=SW2-2
+Added Net: Name=AK
